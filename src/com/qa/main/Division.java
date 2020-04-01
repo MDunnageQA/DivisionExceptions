@@ -20,10 +20,6 @@ public class Division
 			{
 				System.out.println(goodeArray[4]);
 			}
-			if (goodeArray[0] == 10 && goodeArray[1] == 2)
-			{
-				
-			}
 		}
 		catch (ArithmeticException ae)
 		{
